@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+<div class="myDiv">
+
+<p><img src="/_media/banner_sg_lootopians.png" alt="banner_lootopian" width="750" height="250"></p>
+
+<h1>Character sheets</h1>
+
+<p><b>Release date: </b>TBA</br><b>Smart contract: </b>TBA</br><b>Supply: </b>2000</br><b>Policy ID: </b>terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6</p>
+
+<p><img src="/_media/character_sheet_loot.png" alt="banner_lootopian" width="400" height="400"></p>
+
+<h3>Marketplaces</h3>
+<p><b>RE: </b><a href="https://randomearth.io/collections/terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6">https://randomearth.io/collections/terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6</a></br><b>KA: </b> <a href="https://knowhere.art/collections/terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6">https://knowhere.art/collections/terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6</a></p>
+</div>
+</body>
